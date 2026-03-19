@@ -1,7 +1,7 @@
-============================
+
 REMOTE SERVER SETUP GUIDE
 For: SQL + PHP Web Application
-============================
+
 
 # 1. Server Requirements
 - OS: Ubuntu 22.04+ or Debian 12+
@@ -64,7 +64,7 @@ sudo ufw enable
 - Check database connectivity from PHP.
 - Log errors via /var/log/apache2/error.log if needed.
 
-============================
+
 SERVER HOT SETUP COMPLETE
-============================
+
 Reports bugs only here!
