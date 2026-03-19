@@ -1,5 +1,5 @@
 
-REMOTE SERVER SETUP GUIDE
+SERVER SETUP GUIDE
 For: SQL + PHP Web Application
 
 
@@ -65,6 +65,6 @@ sudo ufw enable
 - Log errors via /var/log/apache2/error.log if needed.
 
 
-SERVER HOT SETUP COMPLETE
+SERVER  SETUP COMPLETE
 
 Reports bugs only here!
